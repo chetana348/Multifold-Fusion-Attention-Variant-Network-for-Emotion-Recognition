@@ -9,7 +9,7 @@ This repository contains the **official implementation** of the paper:
 
 ## Abstract
 
-Multimodal emotion recognition has emerged as a critical challenge in affective computing, requiring the effective integration of diverse and asynchronous input sources. This paper introduces a **Multifold Fusion Attention Variant (MFAV)** that selectively emphasizes modality-specific and cross-modal features through a hierarchical fusion mechanism. MFAV employs a dual-stage attention pipeline — comprising intra-modality attention and cross-modality interaction — to dynamically refine emotional cues from audio, video, and text. The proposed model achieves state-of-the-art performance on standard emotion recognition benchmarks and demonstrates strong generalization across variable emotion contexts.
+Multimodal emotion recognition has emerged as a critical challenge in affective computing, requiring the effective integration of diverse and asynchronous input sources. This paper introduces a **Multifold Fusion Attention Variant (MFAV)** that selectively emphasizes modality-specific and cross-modal features through a hierarchical fusion mechanism. MFAV employs a dual-stage attention pipeline, comprising intra-modality attention and cross-modality interaction to dynamically refine emotional cues from audio, video, and text. The proposed model achieves state-of-the-art performance on standard emotion recognition benchmarks and demonstrates strong generalization across variable emotion contexts.
 
 ---
 
