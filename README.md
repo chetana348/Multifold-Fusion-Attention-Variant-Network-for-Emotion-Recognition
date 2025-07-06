@@ -87,7 +87,7 @@ To train the model, simply run:
 
 ```bash
 python train.py
-
+```
 - All training hyperparameters must be modified **directly inside** the `train.py` file:
 
   - Learning rate  
@@ -108,7 +108,7 @@ To evaluate the trained model, run:
 
 ```bash
 python test.py
-
+```
 
 ---
 
