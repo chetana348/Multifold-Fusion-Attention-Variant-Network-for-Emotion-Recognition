@@ -63,8 +63,8 @@ Please refer to the dataset’s original source for licensing and access instruc
 
 ## ⚙️ Requirements
 
-- Python ≥ 3.8
-- PyTorch ≥ 1.12
+- `Python ≥ 3.8`
+- `PyTorch ≥ 1.12`
 - `transformers` ≥ 4.30
 - `networkx`
 - `scikit-learn`
